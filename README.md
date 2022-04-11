@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viryl15
 - 👀 I’m interested in web and mobile dev job
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel, vuejs and neo4j
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on Laravel, vuejs, Nux.js, Node.js and JavaScript
 - 📫 How to reach me viryl1515@gmail.com
 
 <!---
